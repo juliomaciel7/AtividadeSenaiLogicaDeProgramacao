@@ -1,0 +1,13 @@
+{
+  "name": "treinandotypescript",
+  "version": "1.0.0",
+  "description": "Projeto da atividade da aula Lógica de Programação da Escola SENAI Informática",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "Júlio maciel",
+  "license": "ISC"
+}
